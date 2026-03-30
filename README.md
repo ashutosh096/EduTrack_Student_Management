@@ -38,3 +38,4 @@ Demographics: Bar charts for student distribution by grade and subject.
 
 Automated Database: Uses SQLite; the database (edutrack.db) and sample data are auto-generated on the first run.
 ![image alt](https://github.com/ashutosh096/EduTrack_Student_Management/blob/2fcf2c897c4d89002f7f10483cc1b6849786c119/Screenshot%202026-03-30%20223521.png)
+![image alt](https://github.com/ashutosh096/EduTrack_Student_Management/blob/12727ddc2634b4067d89970e493c32d8a29d7c46/Screenshot%202026-03-30%20223559.png)
