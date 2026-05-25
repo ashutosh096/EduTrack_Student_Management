@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache / compile files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+edutrack.db
+edutrack.db-journal
+edutrack.db-shm
+edutrack.db-wal
+
+# OS files
+.DS_Store
+Thumbs.db
